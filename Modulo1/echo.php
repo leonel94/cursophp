@@ -1,0 +1,5 @@
+<?php
+<?php
+  echo "I love PHP!";
+?>
+?>
